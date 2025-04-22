@@ -1,6 +1,4 @@
-Here’s a clean and **properly aligned README.md** version for your Movie Ticket Booking App with all the provided content:
 
----
 
 # 🎬 Movie Ticket Booking App – Setup & Roles Overview
 
