@@ -63,6 +63,6 @@ Includes all User permissions, plus:
 4. with chat bot
 
 5. ![Screenshot 2025-04-22 220826](https://github.com/user-attachments/assets/03361982-04c7-41e7-9fa6-a3a6e57802b6)
-6.                                       REGISTER
+6. REGISTER-------------------------------------------------------------------------------------------------------
      ![Screenshot 2025-04-22 220815](https://github.com/user-attachments/assets/258278e1-67da-4ca4-9173-2de3c2cdcd0e)
-
+   LOGIN----------------------------------------------------------------------------------------------------------
