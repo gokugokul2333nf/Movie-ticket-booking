@@ -61,3 +61,5 @@ Includes all User permissions, plus:
 - Can manage user and admin accounts
 
 4. with chat bot
+
+5. ![Screenshot 2025-04-22 220826](https://github.com/user-attachments/assets/03361982-04c7-41e7-9fa6-a3a6e57802b6)
