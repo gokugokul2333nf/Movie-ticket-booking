@@ -176,4 +176,4 @@ Includes all **User** permissions, plus:
 
 ---
 
-Let me know if you'd like a downloadable `README.md` file or need a separate version for GitHub!
+
