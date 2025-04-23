@@ -77,6 +77,7 @@ Includes all **User** permissions, plus:
   - View booked seat details
 - Can manage **movies**
 - Can manage **user and admin accounts**
+- to login as a admin go to mongo-db in user collection change role as the admin
 
 ---
 
